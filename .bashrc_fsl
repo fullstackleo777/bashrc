@@ -1,0 +1,53 @@
+# on/off
+alias off='poweroff'
+alias offon='reboot'
+
+# admin
+alias sau='sudo apt update'
+alias saup='sudo apt upgrade'
+
+# bashrc
+alias refbashrc='. ~/.bashrc'
+alias editbashrc='sudo vim ~/.bashrc'
+
+# ip
+alias cip='curl ifconfig.io'
+
+# git
+alias gits='git status'
+alias gitaa='git add -A'
+alias gitps='git push'
+alias gitpl='git pull'
+
+# brave
+alias bravei='brave-browser --incognito'
+alias brave='brave-browser'
+
+# shortcuts to dirs
+
+alias rwh='cd ~/Documents/repos/work-hunt'
+alias rrc='cd ~/Documents/repos/real-combos'
+alias rv='cd ~/Documents/repos/vimrc'
+alias rtts='cd ~/Documents/repos/tech-terminology-series'
+alias ril25='cd ~/Documents/repos/idealeo2025'
+alias rad25='cd ~/Documents/repos/amazingdesigner2025'
+alias rv='cd ~/Documents/repos/varo'
+alias rcts='cd ~/Documents/repos/csv-to-sql'
+alias rbs='cd ~/Documents/repos/bash-scripts'
+alias rp='cd ~/Documents/repos/portfolio'
+alias rjs='cd ~/Documents/repos/js-scripts'
+alias rbc='cd ~/Documents/repos/bash-commands'
+alias rb='cd ~/Documents/repos/bashrc'
+alias rps='cd ~/Documents/repos/php-scripts'
+alias rjwrj='cd ~/Documents/repos/java-with-react-js'
+alias rtm='cd ~/Documents/repos/tech-market'
+alias rr='cd ~/Documents/repos/resume'
+alias rmdof='cd ~/Documents/repos/mobile-device-os-flashing'
+alias rc='cd ~/Documents/repos/covers'
+alias rcsspt='cd ~/Documents/repos/coming-soon-single-page-templates'
+alias rfwd='cd ~/Documents/repos/faq-web-dev'
+alias rsms='cd ~/Documents/repos/social-media-sizing'
+alias rdcsw='cd ~/Documents/repos/diy-cold-storage-wallet'
+alias rn='cd ~/Documents/repos/notas'
+alias rfsl25='cd ~/Documents/repos/fullstackleo2025'
+alias rpoft='cd ~/Documents/repos/parrot-os-fine-tuning'
